@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "name": "The Matrix Reloaded",
+      "rating": "6.9",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg",
+      "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition.",
+      "id": 8
+    },
+    {
+      "name": "Saw 3D",
+      "rating": "6.0",
+      "overview": "As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vC9T3hjrV9jEBIQ5Ce9eZzN1xxJ.jpg",
+      "id": 11
+    },
+    {
+      "name": "Blitz",
+      "rating": "6.2",
+      "overview": "A tough, renegade cop with a gay sidekick is dispatched to take down a serial killer who has been targeting police officers.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCPMjT8Ld8tvs1zs7LY2jpKlRIK.jpg",
+      "id": 12
+    },
+    {
+      "name": "Hostage",
+      "rating": "6.3",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hne3v6jN4MlCnhSkxOW7YspJhr.jpg",
+      "overview": "When a mafia accountant is taken hostage on his beat, a police officer – wracked by guilt from a prior stint as a negotiator – must negotiate the standoff, even as his own family is held captive by the mob.",
+      "id": 16
+    },
+    {
+      "name": "Prison Break",
+      "rating": "8.3",
+      "imageURL": "https://ceotudent.com/wp-content/uploads/2021/07/n8i9jj.jpg",
+      "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside.",
+      "id": 18
+    },
+    {
+      "name": "Lost",
+      "rating": "8.3",
+      "imageURL": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+      "overview": "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.",
+      "id": 13
+    },
+    {
+      "name": "Ip Man 2",
+      "rating": "7.4",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yB5v6wRhIoZxlDvCFFCQhUNezDY.jpg",
+      "overview": "Having defeated the best fighters of the Imperial Japanese army in occupied Shanghai, Ip Man and his family settle in post-war Hong Kong. Struggling to make a living, Master Ip opens a kung fu school to bring his celebrated art of Wing Chun to the troubled youth of Hong Kong. His growing reputation soon brings challenges from powerful enemies, including pre-eminent Hung Gar master, Hung Quan.",
+      "id": 19
+    },
+    {
+      "name": "Avengers: Endgame ",
+      "rating": "8.3",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "id": 20
+    },
+    {
+      "name": "The Karate Kid",
+      "rating": "6.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o4gwFcm6qRgnC9Gff4giy0POHdF.jpg",
+      "overview": "Twelve-year-old Dre Parker could have been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+      "id": 21
+    },
+    {
+      "name": "Titanic",
+      "rating": "7.9",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+      "id": 17
+    }
+  ]
+}
